@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronic Engineeging, Loughborough University, UK, 2001
+* M.S. in Telecommunications, CINVESTAV, Mexico, 1997
+* B.S. in Computer Science, National Technological Institute of Mexico, 1995
 
 Work experience
 ======
